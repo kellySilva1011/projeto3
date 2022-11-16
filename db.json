@@ -1,0 +1,116 @@
+{
+    "livros-raros": [ 
+      {
+        "id": 1,
+        "nome": "100 Cronônicas escolhidas-autografado",
+        "descricao": "José Olympio, 1958, 1ª edição, com dedicatória do autor. Brochura. Livro em muito bom estado de conservação, apenas com uma pequena perda na parte superior da capa. 326 páginas.",
+        "preco": 250.00,
+        "autor":" Rubem Braga;",
+        "categoria_id": 1
+      },
+      {
+        "id": 2,
+        "nome": "Não Tenho Palavras - Autografado",
+        "descricao": "Circo Editorial, 1984, 1ª edição, com dedicatória do autor: veja imagem 2. Caricatura. Brochura. Livro em muito bom estado de conservação. 141 pp. ",
+        "preco": 175.00,
+        "autor":"Chico Caruso",
+        "categoria_id": 1
+      },
+      {
+        "id": 3,
+        "nome": "1001 – Noites No Cinema",
+        "descricao": "CIA das Letras, 1994, 1ª edição. Brochura. Livro em bom estado de conservação, apenas com os cortes amarelados e algumas algumas manchas amarelas nas primeiras páginas. 567 páginas.",
+        "preco": 145.00,
+        "autor": " Pauline Kael",
+        "categoria_id": 1
+      },
+      {
+        "id": 4,
+        "nome": "30 Desenhos de Poty",
+        "descricao": "DNER, 1962. Apresentação de José Roberto Teixeira Leite. Álbum contendo 30 reproduções de desenhos do artista Poty Lazzarotto, editado especialmente para o Departamento Nacional de Estradas de Rodagens (DNER) como narração gráfica da Rodovia Rio – Porto Alegre. Os desenhos apresentam paisagens de São Paulo – Curitiba / Curitiba – Lages / Lages – Porto Alegre e Porto Alegre – Pelotas. Álbum com a capa desgastada. Páginas em muito bom estado de conservação, apenas levemente amareladas. Formato grande: 45 X 31 cm.",
+        "preco": 450.00,
+        "autor": "Poty Lazzarotto",
+        "categoria_id": 1
+      },
+      {
+        "id": 5,
+        "nome": "A Administração Conservadora ~ 1ª Edição",
+        "descricao": "Imprensa Industrial, 1878 , 1ª edição. “Manifesto de 16 de abril de 1878.” Encadernação antiga, sem a capa da brochura. Livro em muito bom estado de conservação, apresentando apenas desgastes na junção da capa com a lombada. 163 pp. Frete Grátis! ",
+        "preco": 250.00,
+        "autor": "Manoel António Rodrigues Torres",
+        "categoria_id": 1
+      }
+    ],
+
+    "livros-de-auto-ajuda": [ 
+      {
+        "id": 1,
+        "nome": "O Poder do Hábito ",
+        "descricao": "No livro O Poder do Hábito, o autor tem por premissa desvendar como os hábitos são formados nas pessoas e como eles acabam influenciando positiva e negativamente em nossas vidas. Entender isso pode ser um fator determinante se você quiser um dia mudar um hábito. ",
+        "preco": 50.00,
+        "autor":" Charles Duhigg"
+        
+      },
+      {
+        "id": 2,
+        "nome": "A Sutil Arte de Ligar o F*da-se ",
+        "descricao": "Com linguagem direta, sem papas na língua e repleto de palavrões, o autor Mark Manson dá um tapa na cara desde o início do livro em que escolhe o mote de Bukowski – Nem tente – para dizer que você vai, inevitavelmente, fracassar (e tudo bem). ",
+        "preco": 75.00,
+        "autor":"Mark Manson"
+       
+      },
+      {
+        "id": 3,
+        "nome": "Trabalhe 4 Horas Por Semana",
+        "descricao": "Trabalhe 4 Horas Por Semana é um dos mais influentes e melhores livros de desenvolvimento pessoal já escritos. Essa obra irá contar a história do autor do livro, que também é um empreendedor e que conseguiu otimizar e automatizar processos em sua empresa – reduzindo cerca de 80% do seu trabalho.",
+        "preco": 45.00,
+        "autor": " Timothy Ferris"
+        
+      },
+      {
+        "id": 4,
+        "nome": "Como Fazer Amigos e Influenciar Pessoas",
+        "descricao": "Ao longo de oito décadas, Como Fazer Amigos e Influenciar Pessoas se tornou a referência quando o assunto é o desenvolvimento das relações humanas, das habilidades sociais e da comunicação eficiente e é o quarto colocado em nossa lista de Melhores Livros de Autoajuda para acelerar seu desenvolvimento pessoal.",
+        "preco": 50.00,
+        "autor": "Dale Carnegie"
+        
+      }
+      
+    ],
+
+    "livros-de-romance": [ 
+      {
+        "id": 1,
+        "nome": "Um Amor Para Recordar ",
+        "descricao": "Um livro de Nicholas Sparks abre a nossa lista de Melhores Livros de Romance. São mais de 100 milhões de exemplares vendidos pelo autor. Em Um Amor Para Recordar conta a história do adolescente de Landon Carter que está no momento descrente do amor por ter sido abandonado pela antiga namorada. ",
+        "preco": 56.00,
+        "autor":" Nicholas Sparks"
+        
+      },
+      {
+        "id": 2,
+        "nome": "Bridgerton: O Duque e Eu",
+        "descricao": "A história de época gira em torno de Daphne Bridgerton e Simon Bassett (o irresistível duque de Hastings). Basset passara anos viajando para o mundo, era rico, bonito, solteiro (e todos os outros clichês que se pode esperar nesse tipo de romance). Porém, ele está irredutível na ideia de nunca casar-se. ",
+        "preco": 75.00,
+        "autor":"Julia Quinn"
+       
+      },
+      {
+        "id": 3,
+        "nome": "O Amor Nos Tempos do Cólera",
+        "descricao": "O Amor Nos Tempos do Cólera aparece em terceiro lugar na nossa lista de Melhores Livros de Romance. Essa é a história real dos pais de Gabriel García Márquez (Colombiano e Nobel de literatura) e foi a inspiração do livro, que acompanha a paixão do telegrafista, violinista e poeta Gabriel Elígio Garciá por Luiza Márquez, Na história real, o pai da noiva era contra o noivado e a enviou para uma viagem pelo interior por um ano. Gabriel, então, monta uma rede de comunicação para conseguir alcançar Luiza onde fosse que ela estivesse.",
+        "preco": 45.00,
+        "autor": "Gabriel Garcia Márquez"
+        
+      },
+      {
+        "id": 4,
+        "nome": "A Culpa é das Estrelas",
+        "descricao": "A história que virou filme de A Culpa é Das Estrelas está em quarto lugar na nossa lista de Melhores Livros de Romance. Nessa história encantadora, dois adolescentes (Hazel e Augustus) se encontram em uma casa de apoio para crianças com câncer.",
+        "preco": 50.00,
+        "autor": "John Green"
+        
+      }
+      
+    ]
+}
